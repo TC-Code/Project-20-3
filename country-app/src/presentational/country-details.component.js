@@ -7,7 +7,7 @@ const CountryDetails = props => (
       <img
         className="country-photo"
         src={props.country.imageUrl}
-        alt="country photo"
+        alt="country"
       />
     </header>
     <div className="country-info">
